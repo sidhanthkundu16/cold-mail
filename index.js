@@ -13,7 +13,7 @@ data.forEach((row, i) => {
 });
 // Email configuration
 const senderEmail = "sidhanthkundutech@gmail.com";
-const senderPassword = "dees xxfm kweo vnum";
+const senderPassword = "";
 
 const transporter = nodemailer.createTransport({
     service: "gmail",
